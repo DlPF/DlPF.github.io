@@ -12,9 +12,7 @@ Welcome and thanks for visiting my site! I'm a student at State Key Lab of CAD&C
 
 My research interest mainly lies in Traffic simulation and Physical simulation.
 
-Contact:
-====== 
-lpengfei(at)zju.edu.cn
+**Contact:** lpengfei(at)zju.edu.cn
 
 
 
