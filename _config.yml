@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Pengfei Liu"
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   bio              : "Zhejiang University"
   location         : "Hangzhou, Zhejiang, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=QSj1yegAAAAJ&hl=en"#"http://yourfullgooglescholarurl.com"
   email            :  
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
