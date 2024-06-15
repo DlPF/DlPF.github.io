@@ -12,13 +12,36 @@ Welcome and thanks for visiting my site! I'm Pengfei Liu(刘鹏飞). I obtained 
 
 **Research Interest**: Simulation, Animation.
 
-**Contact:** [lpengfei@zju.edu.cn](mailto:lpengfei@zju.edu.cn) / [982237277@qq.com](mailto:982237277@qq.com)
+**Contact:** [lpengfei@zju.edu.cn](mailto:lpengfei@zju.edu.cn) / [dlpfpengfei@gmail.com](mailto:dlpfpengfei@gmail.com)
 
 
 ## Publications
 
-1.  [Real-Time Collision Detection Between General SDFs](https://dlpf.github.io/sdf-collision.github.io/)
+* [Real-Time Collision Detection Between General SDFs](https://dlpf.github.io/sdf-collision.github.io/)
+  
+  Computer-Aided Geometric Design (Special Issue of GMP 2024, Best Paper Award)
 
-    Computer-Aided Geometric Design (Special Issue of GMP 2024, Best Paper Award)
-    
-    **Pengfei Liu**, [Yuqing Zhang](https://zzzyuqing.github.io/), [He Wang](), Milo K. Yip, Elvis S. Liu, , [Xiaogang Jin*]()
+  **Pengfei Liu**,  [Yuqing Zhang](https://zzzyuqing.github.io/), [He Wang](https://drhewang.com/), Milo K. Yip, Elvis S. Liu, and [Xiaogang Jin†](http://www.cad.zju.edu.cn/home/jin/)
+* [Character hit reaction animations using physics and inverse kinematics]()
+
+  Computer Animation and Virtual Worlds(Special Issue of CASA 2023)
+  
+  **Pengfei Liu**, Yang Zhou, Xilei Wei, Qizhong Su, Weipeng Song, Qilong Kou and [Xiaogang Jin†](http://www.cad.zju.edu.cn/home/jin/)
+
+* Fidelity Evaluation of Virtual Traffic Based on Anomalous Trajectory Detection
+
+  IEEE/RSJ International Conference on Intelligent Robots and Systems
+
+  Chaoneng Li, Qianwen Chao, Guanwen Feng, Qiongyan Wang, **Pengfei Liu**, Yunan Li, Qiguang Miao
+
+* [Velocity-based dynamic crowd simulation by data-driven optimization]()
+  
+  The Visual Computer(Special Issue of CGI'2022) 
+
+  **Pengfei Liu**, Qianwen Chao, Henwei Huang, Qiongyan Wang, Zhongyuan Zhao, Qi Peng, Milo K. Yip, Elvis S. Liu and [Xiaogang Jin†](http://www.cad.zju.edu.cn/home/jin/)
+  
+* [A calibrated force-based model for mixed traffic simulation]()
+
+  IEEE Transactions on Visualization and Computer Graphics
+
+  Qianwen Chao, **Pengfei Liu**, Yi Han, Yingying Lin, Chaoneng Li, Qiguang Miao, and [Xiaogang Jin†](http://www.cad.zju.edu.cn/home/jin/)
