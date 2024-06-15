@@ -22,7 +22,7 @@ Welcome and thanks for visiting my site! I'm Pengfei Liu(刘鹏飞). I obtained 
   Computer-Aided Geometric Design (Special Issue of GMP 2024, Best Paper Award)
 
   **Pengfei Liu**,  [Yuqing Zhang](https://zzzyuqing.github.io/), [He Wang](https://drhewang.com/), Milo K. Yip, Elvis S. Liu, and [Xiaogang Jin†](http://www.cad.zju.edu.cn/home/jin/)
-* [Character hit reaction animations using physics and inverse kinematics]()
+* [Character hit reaction animations using physics and inverse kinematics](https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.2170)
 
   Computer Animation and Virtual Worlds(Special Issue of CASA 2023)
   
@@ -34,13 +34,13 @@ Welcome and thanks for visiting my site! I'm Pengfei Liu(刘鹏飞). I obtained 
 
   Chaoneng Li, Qianwen Chao, Guanwen Feng, Qiongyan Wang, **Pengfei Liu**, Yunan Li, Qiguang Miao
 
-* [Velocity-based dynamic crowd simulation by data-driven optimization]()
+* [Velocity-based dynamic crowd simulation by data-driven optimization](http://www.cad.zju.edu.cn/home/jin/papers/VelocityCrowd.pdf)
   
   The Visual Computer(Special Issue of CGI'2022) 
 
   **Pengfei Liu**, Qianwen Chao, Henwei Huang, Qiongyan Wang, Zhongyuan Zhao, Qi Peng, Milo K. Yip, Elvis S. Liu and [Xiaogang Jin†](http://www.cad.zju.edu.cn/home/jin/)
   
-* [A calibrated force-based model for mixed traffic simulation]()
+* [A calibrated force-based model for mixed traffic simulation](http://www.cad.zju.edu.cn/home/jin/tvcg2022/tvcg2022.htm)
 
   IEEE Transactions on Visualization and Computer Graphics
 
