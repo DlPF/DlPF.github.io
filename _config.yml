@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "DlPF HomePage"
 title_separator          : "-"
 name                     : &name "Pengfei Liu"
 description              : &description "personal description"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Pengfei Liu"
   avatar           : "avatar.jpg"
-  bio              : "Zhejiang University"
-  location         : "Hangzhou, Zhejiang, China"
+  bio              : "State Key Lab of CAD&CG, Zhejiang University"
+  location         : "ShangHai, China"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=QSj1yegAAAAJ&hl=en"#"http://yourfullgooglescholarurl.com"
-  email            :  
+  email            :  "lpengfei@zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-1160-1242"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
