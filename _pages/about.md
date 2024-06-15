@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About Me
 Welcome and thanks for visiting my site! I'm Pengfei Liu(刘鹏飞). I obtained my Master's degree from State Key Lab of CAD&CG, Zhejiang University, supervised by [Prof. Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/). And I obtained my Bachelor's degree of Software Engineering form North University of China in 2020. 
 
 **Research Interest**: Simulation, Animation.
